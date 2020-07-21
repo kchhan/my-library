@@ -9,7 +9,7 @@ Live Site: https://kchhan.github.io/my-library/
 ## Tools Used:
 
 - HTML5
-- CSS
+- CSS3
   - Skeleton CSS Boilerplate
 - JavaScript
 
